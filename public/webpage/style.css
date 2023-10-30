@@ -28660,7 +28660,7 @@ blockquote.float-end {
   padding: 20px;
 }
 .bg-overlay-bg {
-  --cnvs-bg-overlay-bg-opacity: 0.75;
+  --cnvs-bg-overlay-bg-opacity: 0.9;
   --cnvs-bg-overlay-bg: rgba(var(--cnvs-invert-contrast-rgb), var(--cnvs-bg-overlay-bg-opacity));
   background-color: var(--cnvs-bg-overlay-bg);
 }
