@@ -331,7 +331,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Innova Reborn</h3>
-                                                <span>Harga mulai dari 500rb /hari</span>
+                                                <span>Harga mulai dari 700rb /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -348,12 +348,12 @@
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src="{!! asset('assets/car/innova-raize.jpeg') !!}" alt="Innova Raize - Ada Rent Car & Tour">
+                                    <img src="{!! asset('assets/car/toyota-haice.jpeg') !!}" alt="Toyota Haice - Ada Rent Car & Tour">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
-                                                <h3>Innova Raize</h3>
-                                                <span>Harga mulai dari 950rb /hari</span>
+                                                <h3>Toyota Haice</h3>
+                                                <span>Harga mulai dari 1jt /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -375,7 +375,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Innova Genic</h3>
-                                                <span>Harga mulai dari 850rb /hari</span>
+                                                <span>Harga mulai dari 750rb /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -398,7 +398,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Toyota Alphard 2016 & 2020</h3>
-                                                <span>Harga mulai dari 1.3jt /hari</span>
+                                                <span>Harga mulai dari 1.5jt /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -421,7 +421,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Toyota Alphard 2021</h3>
-                                                <span>Harga mulai dari 1.3jt /hari</span>
+                                                <span>Harga mulai dari 1.8jt /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -444,7 +444,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Mitsubishi Xpander 2018</h3>
-                                                <span>Harga mulai dari 650rb /hari</span>
+                                                <span>Harga mulai dari 500rb /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -467,7 +467,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Mitsubishi Xpander 2020</h3>
-                                                <span>Harga mulai dari 650rb /hari</span>
+                                                <span>Harga mulai dari 550rb /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
@@ -490,7 +490,7 @@
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
                                                 <h3>Bus Medium 25 & 29 Seat</h3>
-                                                <span>Harga mulai dari 1,4jt /hari</span>
+                                                <span>Harga mulai dari 1,3jt /hari</span>
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
