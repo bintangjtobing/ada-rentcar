@@ -17,19 +17,19 @@
         rel="stylesheet">
 
     <!-- Core Style -->
-    <link rel="stylesheet" href="{!! asset('webpage/style.css') !!}">
+    <link rel="stylesheet" href="{!! asset('webpage/style.css?' . rand(10000, 99999)) !!}">
 
     <!-- Font Icons -->
-    <link rel="stylesheet" href="{!! asset('webpage/css/font-icons.css') !!}">
+    <link rel="stylesheet" href="{!! asset('webpage/css/font-icons.css?' . rand(10000, 99999)) !!}">
 
     <!-- Plugins/Components CSS -->
-    <link rel="stylesheet" href="{!! asset('webpage/css/components/datepicker.css') !!}">
+    <link rel="stylesheet" href="{!! asset('webpage/css/components/datepicker.css?' . rand(10000, 99999)) !!}">
 
     <!-- Niche Demos -->
-    <link rel="stylesheet" href="{!! asset('webpage/demos/travel/travel.css') !!}">
+    <link rel="stylesheet" href="{!! asset('webpage/demos/travel/travel.css?' . rand(10000, 99999)) !!}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{!! asset('webpage/css/custom.css') !!}">
+    <link rel="stylesheet" href="{!! asset('webpage/css/custom.css?' . rand(10000, 99999)) !!}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="{!! asset('assets/just-logo.png') !!}" type="image/png">
 
@@ -734,11 +734,11 @@
 
     <!-- JavaScripts
  ============================================= -->
-    <script src="{!! asset('webpage/js/plugins.min.js') !!}"></script>
-    <script src="{!! asset('webpage/js/functions.bundle.js') !!}"></script>
+    <script src="{!! asset('webpage/js/plugins.min.js?' . rand(10000, 99999)) !!}"></script>
+    <script src="{!! asset('webpage/js/functions.bundle.js?' . rand(10000, 99999)) !!}"></script>
 
     <!-- Travel Demo Specific Script -->
-    <script src="{!! asset('webpage/js/components/datepicker.js') !!}"></script>
+    <script src="{!! asset('webpage/js/components/datepicker.js?' . rand(10000, 99999)) !!}"></script>
     <!-- / -->
 
     <script>
