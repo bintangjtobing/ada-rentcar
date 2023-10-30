@@ -39,28 +39,31 @@
         @hasSection('title')
             @yield('title') |
         @else
-        @endif Ada Rent Car & Tour
+        @endif Ada Rent Car & Tour Hub
     </title>
     <meta name="og:title" property="og:title"
         content="@hasSection('title')
 @yield('title') |
 @else
-@endif Ada Rent Car & Tour" />
+@endif Ada Rent Car & Tour Hub" />
     <meta name="og:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:image" property="og:image"
         content="@if (View::hasSection('tag_cover')) @yield('tag_cover')@else {!! asset('assets/meta-cover.jpg') !!} @endif" />
     <meta name="og:description" property="og:description"
         content="Pilihan tepat bagi Anda yang membutuhkan mobil untuk perjalanan bisnis, liburan, atau acara lainnya. Kami akan memastikan Anda mendapatkan pengalaman berkendara yang menyenangkan dan nyaman." />
-    <meta name="twitter:card" content="@hasSection('title')
+    <meta name="twitter:card"
+        content="@hasSection('title')
 @yield('title') |
 @else
-@endif Ada Rent Car & Tour" />
+@endif Ada Rent Car & Tour Hub" />
     <meta name="twitter:title" property="og:title"
         content="@hasSection('title')
 @yield('title') |
 @else
-@endif Ada Rent Car & Tour" />
+@endif Ada Rent Car & Tour Hub" />
+    <meta name="keywords"
+        content="adarentcarhub, adarentcarandtour, Rent car medan,Sewa mobil medan,Mobil murah medan,Mobil mewah medan,Mobil keluarga medan,Mobil bisnis medan,Mobil liburan medan,Mobil antar jemput medan,Mobil supir medan,Mobil asuransi medan,Tour medan,Wisata medan,Paket wisata medan,Destinasi wisata medan,Agen wisata medan,Travel medan" />
     <meta name="twitter:url" property="og:url" content="{{ Request::url() }}" />
     <meta name="twitter:type" property="og:type" content="website" />
     <meta name="twitter:image" property="og:image"
@@ -71,11 +74,12 @@
     <link rel="shortcut icon"
         href="@if (View::hasSection('icon')) @yield('icon')@else {!! asset('assets/just-logo.png') !!} @endif" type="image/png"
         sizes="64x64" />
-    <meta name="og:email" content="info@boxity.id" />
+    <meta name="og:email" content="info@adarentcarhub.com" />
     <meta name="og:phone_number" content="02129021873" />
     <meta name="og:latitude" content="-6.1465558" />
     <meta name="og:longitude" content="106.7843094" />
-    <meta name="og:street-address" content="Jl. Mesjid Taufik Gg. Bali, Medan - Sumatera Utara, 20236" />
+    <meta name="og:street-address"
+        content="Jl. Mesjid Taufik Gg. Bali, Glugur Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20237" />
     <meta name="og:locality" content="Sumatera Utara" />
     <meta name="og:region" content="ID" />
     <meta name="og:postal-code" content="20236" />
@@ -146,9 +150,9 @@
                             <a href="/">
                                 <img class="logo-default"
                                     srcset="{!! asset('assets/logo-ada-rent-car.png') !!}, {!! asset('assets/logo-ada-rent-car.png') !!} 2x"
-                                    src="{!! asset('assets/logo-ada-rent-car.png') !!}" alt="Ada Rent Car & Tour Logo">
+                                    src="{!! asset('assets/logo-ada-rent-car.png') !!}" alt="Ada Rent Car & Tour Hub Logo">
                                 <img class="logo-dark" srcset="{!! asset('assets/logo-ada-rent-car.png') !!}, {!! asset('assets/logo-ada-rent-car.png') !!} 2x"
-                                    src="{!! asset('assets/logo-ada-rent-car.png') !!}" alt="Ada Rent Car & Tour Logo">
+                                    src="{!! asset('assets/logo-ada-rent-car.png') !!}" alt="Ada Rent Car & Tour Hub Logo">
                             </a>
                         </div><!-- #logo end -->
 
@@ -326,7 +330,7 @@
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src="{!! asset('assets/car/innova-reborn.jpeg') !!}" alt="Innova Reborn - Ada Rent Car & Tour">
+                                    <img src="{!! asset('assets/car/innova-reborn.jpeg') !!}" alt="Innova Reborn - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -348,7 +352,7 @@
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src="{!! asset('assets/car/toyota-haice.jpeg') !!}" alt="Toyota Haice - Ada Rent Car & Tour">
+                                    <img src="{!! asset('assets/car/toyota-haice.jpeg') !!}" alt="Toyota Haice - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -370,7 +374,7 @@
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src="{!! asset('assets/car/innova-genic.jpeg') !!}" alt="Innova Genic - Ada Rent Car & Tour">
+                                    <img src="{!! asset('assets/car/innova-genic.jpeg') !!}" alt="Innova Genic - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -393,7 +397,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/alphard-2016.jpg') !!}"
-                                        alt="Toyota Alphard 2016 & 2020 - Ada Rent Car & Tour">
+                                        alt="Toyota Alphard 2016 & 2020 - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -416,7 +420,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/alphard-2021.jpg') !!}"
-                                        alt="Toyota Alphard 2021 - Ada Rent Car & Tour">
+                                        alt="Toyota Alphard 2021 - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -439,7 +443,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/xpander-2018.jpg') !!}"
-                                        alt="Mitsubishi Xpander 2018 - Ada Rent Car & Tour">
+                                        alt="Mitsubishi Xpander 2018 - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -462,7 +466,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/xpander-2020.jpeg') !!}"
-                                        alt="Mitsubishi Xpander 2020 - Ada Rent Car & Tour">
+                                        alt="Mitsubishi Xpander 2020 - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -485,7 +489,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/bus-29.jpeg') !!}"
-                                        alt="Bus Medium 25 & 29 Seat - Ada Rent Car & Tour">
+                                        alt="Bus Medium 25 & 29 Seat - Ada Rent Car & Tour Hub">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-center">
@@ -526,7 +530,7 @@
                                 <div class="col-lg-6">
                                     <div class="entry-image mb-0">
                                         <a href="#"><img src="{!! asset('assets/tour/danau-toba.jpg') !!}"
-                                                alt="Dana Toba - Ada Rent Car & Tour"></a>
+                                                alt="Dana Toba - Ada Rent Car & Tour Hub"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mt-3 mt-lg-0">
@@ -545,7 +549,7 @@
                                 <div class="col-lg-6">
                                     <div class="entry-image mb-0">
                                         <a href="#"><img src="{!! asset('assets/tour/gunung-sibayak.webp') !!}"
-                                                alt="Gunung Sibayak - Ada Rent Car & Tour"></a>
+                                                alt="Gunung Sibayak - Ada Rent Car & Tour Hub"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mt-3 mt-lg-0">
@@ -564,7 +568,7 @@
                                 <div class="col-lg-6">
                                     <div class="entry-image mb-0">
                                         <a href="#"><img src="{!! asset('assets/tour/bukit-lawang.jpg') !!}"
-                                                alt="Bukit Lawang - Ada Rent Car & Tour"></a>
+                                                alt="Bukit Lawang - Ada Rent Car & Tour Hub"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mt-3 mt-lg-0">
@@ -583,7 +587,7 @@
                                 <div class="col-lg-6">
                                     <div class="entry-image mb-0">
                                         <a href="#"><img src="{!! asset('assets/tour/air-terjun-sipiso.jpg') !!}"
-                                                alt="Air Terjun Sipiso-piso - Ada Rent Car & Tour"></a>
+                                                alt="Air Terjun Sipiso-piso - Ada Rent Car & Tour Hub"></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mt-3 mt-lg-0">
