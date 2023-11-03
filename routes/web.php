@@ -18,3 +18,7 @@ Route::get('/', function () {
     $data = cars::all();
     return view('home.index', ['data' => $data]);
 });
+Route::get('/rental-mobil-medan', function () {
+    $data = cars::all();
+    return view('home.rental', ['data' => $data]);
+});

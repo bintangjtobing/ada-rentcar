@@ -80,7 +80,7 @@
     </section>
 
     <!-- Content
-                                                                                                                                                                                                                                                ============================================= -->
+                                                                                                                                                                                                                                                                        ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -318,9 +318,6 @@
                         <li>Harga di poin 3 dan poin 4, tentu tidak termasuk dengan biaya tol, parkir, inap supir, dan
                             konsumsi
                             supir.</li>
-                        <li>Apabila customer menyewa di saat high season, harga estimasi akan mengalami kenaikan penyewaan
-                            mobil
-                            sebesar Rp. 100.000 /hari dan supir sebesar Rp. 50.000 /hari.</li>
                     </ol>
                     </p>
 
