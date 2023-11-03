@@ -80,7 +80,7 @@
     </section>
 
     <!-- Content
-                                                                                                                                                                                                                                ============================================= -->
+                                                                                                                                                                                                                                    ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -314,7 +314,7 @@
                             dan bahan bakar minyak.</li>
                         <li>Untuk penyewaan di luar kota, harga estimasi nya merupakan harga yang termasuk penyewaan mobil,
                             dan
-                            supir.</li>
+                            supir. (Tidak termasuk biaya penyebrangan (ferry))</li>
                         <li>Harga di poin 3 dan poin 4, tentu tidak termasuk dengan biaya tol, parkir, inap supir, dan
                             konsumsi
                             supir.</li>
