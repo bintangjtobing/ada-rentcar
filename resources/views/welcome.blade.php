@@ -287,13 +287,20 @@
 
                         <div class="col-md-6 text-center text-md-end">
                             <div class="d-flex justify-content-center justify-content-md-end">
-                                <a href="#" class="social-icon si-small border-transparent h-bg-facebook">
+                                <a href="https://web.facebook.com/profile.php?id=61552934348411" target="_blank"
+                                    class="social-icon si-small border-transparent h-bg-facebook">
                                     <i class="fa-brands fa-facebook-f"></i>
                                     <i class="fa-brands fa-facebook-f"></i>
                                 </a>
-                                <a href="#" class="social-icon si-small border-transparent h-bg-instagram">
+                                <a href="https://instagram.com/adarentcartour" target="_blank"
+                                    class="social-icon si-small border-transparent h-bg-instagram">
                                     <i class="fa-brands fa-instagram"></i>
                                     <i class="fa-brands fa-instagram"></i>
+                                </a>
+                                <a href="https://wa.me/6285261749957" target="_blank"
+                                    class="social-icon si-small border-transparent h-bg-whatsapp">
+                                    <i class="fa-brands fa-whatsapp"></i>
+                                    <i class="fa-brands fa-whatsapp"></i>
                                 </a>
 
                             </div>
