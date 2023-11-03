@@ -63,7 +63,8 @@
                                             </div>
                                             <div
                                                 class="col-md-12 d-flex flex-column flex-md-row justify-content-between align-items-center">
-                                                <button class="button button-3d m-0 me-4">Cari Mobil</button>
+                                                <a href="/rental-mobil-medan" class="button button-3d m-0 me-4">Cari
+                                                    Mobil</a>
                                             </div>
                                         </div>
                                     </form>
@@ -80,7 +81,7 @@
     </section>
 
     <!-- Content
-                                                                                                                                                                                                                                                                        ============================================= -->
+                                                                                                                                                                                                                                                                            ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
