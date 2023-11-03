@@ -7,7 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="author" content="Boxity Central Indonesia">
     <meta name="description"
-        content="Pilihan tepat bagi Anda yang membutuhkan mobil untuk perjalanan bisnis, liburan, atau acara lainnya. Kami akan memastikan Anda mendapatkan pengalaman berkendara yang menyenangkan dan nyaman.">
+        content="Rental mobil di Medan dengan harga murah dan terjangkau, bisa melayani dalam kota dan luar kota Medan, hanya ada di rentcar & tour hub">
 
     <!-- Font Imports -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,7 +51,7 @@
     <meta name="og:image" property="og:image"
         content="@if (View::hasSection('tag_cover')) @yield('tag_cover')@else {!! asset('assets/meta-cover.jpg') !!} @endif" />
     <meta name="og:description" property="og:description"
-        content="Pilihan tepat bagi Anda yang membutuhkan mobil untuk perjalanan bisnis, liburan, atau acara lainnya. Kami akan memastikan Anda mendapatkan pengalaman berkendara yang menyenangkan dan nyaman." />
+        content="Rental mobil di Medan dengan harga murah dan terjangkau, bisa melayani dalam kota dan luar kota Medan, hanya ada di rentcar & tour hub" />
     <meta name="twitter:card"
         content="@hasSection('title')
 @yield('title') |
@@ -69,7 +69,7 @@
     <meta name="twitter:image" property="og:image"
         content="@if (View::hasSection('tag_cover')) @yield('tag_cover')@else {!! asset('assets/meta-cover.jpg') !!} @endif" />
     <meta name="twitter:description" property="og:description"
-        content="Pilihan tepat bagi Anda yang membutuhkan mobil untuk perjalanan bisnis, liburan, atau acara lainnya. Kami akan memastikan Anda mendapatkan pengalaman berkendara yang menyenangkan dan nyaman." />
+        content="Rental mobil di Medan dengan harga murah dan terjangkau, bisa melayani dalam kota dan luar kota Medan, hanya ada di rentcar & tour hub" />
     <link rel="canonical" href="{{ Request::url() }}/" />
     <link rel="shortcut icon"
         href="@if (View::hasSection('icon')) @yield('icon')@else {!! asset('assets/just-logo.png') !!} @endif" type="image/png"
