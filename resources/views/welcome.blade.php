@@ -112,11 +112,12 @@
                         <!-- Top Social
       ============================================= -->
                         <ul id="top-social">
-                            <li><a href="#" class="h-bg-facebook"><span class="ts-icon"><i
+                            <li><a href="https://web.facebook.com/profile.php?id=61552934348411"
+                                    class="h-bg-facebook"><span class="ts-icon"><i
                                             class="fa-brands fa-facebook-f"></i></span><span
                                         class="ts-text">Facebook</span></a></li>
-                            <li><a href="#" class="h-bg-instagram"><span class="ts-icon"><i
-                                            class="fa-brands fa-instagram"></i></span><span
+                            <li><a href="https://instagram.com/adarentcartour" class="h-bg-instagram"><span
+                                        class="ts-icon"><i class="fa-brands fa-instagram"></i></span><span
                                         class="ts-text">Instagram</span></a></li>
                             <li><a href="tel:+6285261749957" class="h-bg-call"><span class="ts-icon"><i
                                             class="fa-solid fa-phone"></i></span><span class="ts-text">+62
