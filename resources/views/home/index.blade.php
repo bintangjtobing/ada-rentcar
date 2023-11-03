@@ -81,7 +81,7 @@
     </section>
 
     <!-- Content
-                                                                                                                                                                                                                                                                            ============================================= -->
+                                                                                                                                                                                                                                                                                ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -118,7 +118,7 @@
                             <i class="i-plain color i-large bi-headphones inline-block mb-3"></i>
                             <div class="heading-block border-bottom-0 mb-0">
                                 <span class="before-heading">24x7 Helpdesk</span>
-                                <h4>+62 821 6822 2112</h4>
+                                <h4>+62 852 6174 9957</h4>
                             </div>
                         </div>
 
