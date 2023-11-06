@@ -1,4 +1,7 @@
 @extends('welcome')
+@section('title')
+    Rental Mobil Terpercaya dan Terjangkau di Medan
+@endsection
 @section('content')
     <section id="content">
         <div class="content-wrap">
