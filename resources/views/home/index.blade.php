@@ -33,7 +33,7 @@
                                     aria-labelledby="canvas-home-tab" tabindex="0">
                                     <div
                                         class="heading-block border-bottom-0 mb-4 d-flex flex-column flex-md-row justify-content-between align-items-center">
-                                        <h4>Search for Cheap Rental Cars Wherever Your Are</h4>
+                                        <h4>Cari mobil rental di ada rent car & tour</h4>
                                     </div>
                                     <form action="#" method="post" class="mb-0">
                                         <div class="row g-4">
@@ -81,7 +81,7 @@
     </section>
 
     <!-- Content
-                                                                                                                                                                                                                                                                                ============================================= -->
+                                                                                                                                                                                                                                                                                                    ============================================= -->
     <section id="content">
         <div class="content-wrap">
 
@@ -110,7 +110,7 @@
                             <i class="i-plain color i-large bi-gift inline-block mb-3"></i>
                             <div class="heading-block border-bottom-0 mb-0">
                                 <span class="before-heading">Explore Destinations.</span>
-                                <h4>Paket liburan</h4>
+                                <h4>Terpercaya dan Terjangkau</h4>
                             </div>
                         </div>
 
@@ -145,7 +145,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/' . $item->image) !!}"
-                                        alt="{{ $item->car_name }} - Ada Rent Car & Tour Hub">
+                                        alt="{{ $item->car_name }} - Ada Rent Car & Tour Hub - Rental Terpercaya dan Termurah di Kota Medan">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-left">

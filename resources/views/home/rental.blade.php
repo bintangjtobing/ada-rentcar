@@ -22,7 +22,7 @@
                             <div class="portfolio-image">
                                 <a href="#">
                                     <img src="{!! asset('assets/car/' . $item->image) !!}"
-                                        alt="{{ $item->car_name }} - Ada Rent Car & Tour Hub">
+                                        alt="{{ $item->car_name }} - Ada Rent Car & Tour Hub - Rental Terpercaya dan Termurah di Kota Medan">
                                     <div class="bg-overlay">
                                         <div class="bg-overlay-content dark flex-column">
                                             <div class="portfolio-desc py-0 text-left">
