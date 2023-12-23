@@ -42,7 +42,7 @@
                                                 <a href="https://s.id/order-rental-adarentcarhub" target="_blank"
                                                     type="button" class="btn btn-danger">Pesan
                                                     Sekarang</a>
-                                                <a href="https://wa.me/6285261749957?text=Halo,%20saya%20ingin%20menyewa%20mobil%20%7B%7B{{ $item->car_name }}%7D%7D%20dari%20AdaRentCarHub.%0ABerikut%20informasi%20saya:%0A%0ANama:%20%0AAsal:%20%0ATujuan:%20%0ARencana%20sewa:%20%0AEstimasi%20Waktu%20Sewa:%20%0A%0ATerima%20kasih%20AdaRentCarHub!"
+                                                <a href="https://wa.me/628216822211?text=Halo,%20saya%20ingin%20menyewa%20mobil%20%7B%7B{{ $item->car_name }}%7D%7D%20dari%20AdaRentCarHub.%0ABerikut%20informasi%20saya:%0A%0ANama:%20%0AAsal:%20%0ATujuan:%20%0ARencana%20sewa:%20%0AEstimasi%20Waktu%20Sewa:%20%0A%0ATerima%20kasih%20AdaRentCarHub!"
                                                     target="_blank" type="button" class="btn btn-success">Sewa by
                                                     Whatsapp</a>
                                             </div>

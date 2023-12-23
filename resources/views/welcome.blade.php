@@ -75,7 +75,7 @@
         href="@if (View::hasSection('icon')) @yield('icon')@else {!! asset('assets/just-logo.png') !!} @endif" type="image/png"
         sizes="64x64" />
     <meta name="og:email" content="info@adarentcarhub.com" />
-    <meta name="og:phone_number" content="6285261749957" />
+    <meta name="og:phone_number" content="8216822211" />
     <meta name="og:latitude" content="-6.1465558" />
     <meta name="og:longitude" content="106.7843094" />
     <meta name="og:street-address"
@@ -119,9 +119,9 @@
                             <li><a href="https://instagram.com/adarentcartour" class="h-bg-instagram"><span
                                         class="ts-icon"><i class="fa-brands fa-instagram"></i></span><span
                                         class="ts-text">Instagram</span></a></li>
-                            <li><a href="tel:+6285261749957" class="h-bg-call"><span class="ts-icon"><i
+                            <li><a href="tel:+8216822211" class="h-bg-call"><span class="ts-icon"><i
                                             class="fa-solid fa-phone"></i></span><span class="ts-text">+62
-                                        852-6174-9957</span></a></li>
+                                        821-6822-211</span></a></li>
                             <li><a href="mailto:info@adarentcarhub.com" class="h-bg-email3"><span class="ts-icon"><i
                                             class="bi-envelope-fill"></i></span><span
                                         class="ts-text">info@adarentcarhub.com</span></a></li>
@@ -176,8 +176,8 @@
                                 <li class="menu-item"><a class="menu-link" href="#">
                                         <div>Blog</div>
                                     </a></li>
-                                <li class="menu-item"><a class="menu-link" href="tel:6285261749957">
-                                        <div><i class="bi-telephone"></i>+62 852 6174 9957</div>
+                                <li class="menu-item"><a class="menu-link" href="tel:8216822211">
+                                        <div><i class="bi-telephone"></i>+62 821 6822 211</div>
                                     </a></li>
                             </ul>
 
@@ -209,7 +209,7 @@
                                     <div class="col-lg-12">
                                         <div class="footer-big-contacts">
                                             <span>Hubungi kami:</span>
-                                            62 852 6174 9957
+                                            62 821 6822 211
                                         </div>
                                     </div>
 
@@ -298,7 +298,7 @@
                                     <i class="fa-brands fa-instagram"></i>
                                     <i class="fa-brands fa-instagram"></i>
                                 </a>
-                                <a href="https://wa.me/6285261749957" target="_blank"
+                                <a href="https://wa.me/8216822211" target="_blank"
                                     class="social-icon si-small border-transparent h-bg-whatsapp">
                                     <i class="fa-brands fa-whatsapp"></i>
                                     <i class="fa-brands fa-whatsapp"></i>
